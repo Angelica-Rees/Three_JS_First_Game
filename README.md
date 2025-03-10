@@ -3,6 +3,7 @@ This project is my first exploration of the Three.js Javascript Library. In it, 
 Enjoy :) 
 
 How to run the 3js thing locally (as done with npm): 
+
 In terminal: 
   1. `npm init -y`
   2. `npm install vite --save-dev`
